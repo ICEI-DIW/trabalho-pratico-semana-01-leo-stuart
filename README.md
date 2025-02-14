@@ -7,7 +7,7 @@ Nome: Leonardo Stuart de Almeida Ramalho
 Matricula: 885323
 
 ## Tela de inspeção com navegador
-
+![Inspeção navegador](img/imgdesenvolvedor.jpg)
 
 ## Tela de projeto no Replit
-
+![Projeto Replit](img/imgreplit.jpg)
